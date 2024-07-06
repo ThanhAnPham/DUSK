@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -ex
+
+# This is the master script for the capsule. When you click "Reproducible Run", the code in this file will execute.
+
+# Reconstruct simulated data with DUSK (Fig. 2)
+
+#python -u main_recon.py --sensor 'simGCAMP' --Toi 2. 130. --qe0 100 --dt 0.005 0.005 --paramZ 64 "$@"
+
+# Reconstruct real data with DUSK (Fig. 5, jGCaMP8s). Default values in GCAMPparam.py reproduce Fig. 3A
+python -u main_recon.py "$@"
+
+
+
