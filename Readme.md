@@ -1,4 +1,4 @@
-# Readme for Deep-prior ODEs Augment Fluorescence Imaging with Chemical Sensors
+# Deep-prior ODEs Augment Fluorescence Imaging with Chemical Sensors
 
 This code contains the method Deep spatiotemporal priors for Uncoupling Sensors Kinetics (DUSK). The run file estimates the spatiotemporal distribution of a chemical species of interest (CSI) in a simulated case and on one real data.
 
