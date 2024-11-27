@@ -2,6 +2,8 @@
 
 This code contains the method Deep spatiotemporal priors for Uncoupling Sensors Kinetics (DUSK). The run file estimates the spatiotemporal distribution of a chemical species of interest (CSI) in a simulated case and on one real data.
 
+Paper: https://doi.org/10.1038/s41467-024-53232-2
+
 Note: if the model is already optimized for the same configuration, the script does not re-run the optimization.
 
 ## Dependencies
