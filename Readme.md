@@ -6,8 +6,12 @@ Paper: https://doi.org/10.1038/s41467-024-53232-2
 
 Note: if the model is already optimized for the same configuration, the script does not re-run the optimization.
 
-![](https://github.com/ThanhAnPham/DUSK/illustration.gif)
-
+<p align="center">
+<img src="Illustration.gif" alt="animated" width="400"/>
+</p>
+<p align="center">
+  From left to right: raw measurements, predicted measurements, and fitted concentration
+</p>
 
 ## Dependencies
 
