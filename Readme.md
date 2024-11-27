@@ -6,6 +6,9 @@ Paper: https://doi.org/10.1038/s41467-024-53232-2
 
 Note: if the model is already optimized for the same configuration, the script does not re-run the optimization.
 
+![](https://github.com/ThanhAnPham/DUSK/illustration.gif)
+
+
 ## Dependencies
 
 These packages can be installed via conda and/or pip. Adapt the versions according to your hardware (notably the CUDA version for the GPU).
